@@ -6,23 +6,23 @@
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: [Student Notes Sharing System]
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: [Rita Ashna Pius] - [AISAT]
+- Member 2: [Angelina PG] - [AISAT]
 
 ### Hosted Project Link
-[mention your project hosted link here]
+[https://herspace-six.vercel.app]
 
 ### Project Description
-[2-3 lines about what your project does]
+[This project is a Student Notes Sharing Website where students can upload, view, and download notes in PDF format. Notes are categorized based on department and semester, making it easier for students to find relevant study materials.]
 
 ### The Problem statement
-[What problem are you solving?]
+[Students often struggle to find organized and accessible study materials across different subjects, departments, and semesters. There is no centralized platform to share and access notes easily.]
 
 ### The Solution
-[How are you solving it?]
+[We developed a web-based platform where students can upload notes by selecting their department and semester. Other students can browse and download these notes easily. The system uses local storage to manage data and provides a simple, user-friendly interface.]
 
 ---
 
@@ -31,25 +31,25 @@
 ### Technologies/Components Used
 
 **For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
-- Frameworks used: [e.g., React, Django, Spring Boot]
-- Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
+- Languages used: [HTML, CSS, JavaScript]
+- Frameworks used: [none]
+- Libraries used: [none]
+- Tools used: [VS Code, Git, GitHub, Live Server]
 
 **For Hardware:**
-- Main components: [List main components]
-- Specifications: [Technical specifications]
-- Tools required: [List tools needed]
+- Main components: [Computer/Laptop, Web Browser]
+- Specifications: [Minimum 4GB RAM, Internet Browser (Chrome/Edge/Firefox)]
+- Tools required: [none]
 
 ---
 
 ## Features
 
 List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
+- Feature 1: [User Signup and Login using localStorage]
+- Feature 2: [Upload notes (PDF) with Course Name, Department, and Semester]
+- Feature 3: [Delete uploaded notes]
+- Feature 4: [Download uploaded PDF files]
 
 ---
 
@@ -59,6 +59,7 @@ List the key features of your project:
 
 #### Installation
 ```bash
+No installation required. Just clone the repository.
 [Installation commands - e.g., npm install, pip install -r requirements.txt]
 ```
 
